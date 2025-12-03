@@ -1,0 +1,40 @@
+section{
+  width: 100%;
+  height: 500vh;
+  background-color: black;
+   display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  justify-content: center;
+   row-gap: 5px;
+   
+}
+ div{
+  height: 1500px;
+  width: 300px;
+  justify-content: center;
+  background-color: white;
+   border-radius: 1px;
+ /* border-radius: 10PX; */
+
+ }
+  img{
+   border-radius: 10px;
+   /* display: flex; */
+   
+   
+
+  }
+  div:honer{
+    height: 450px;
+    width: 250px;
+    transition: 0.55;
+    transform: scale();
+    
+   }
+    img:hover{
+    height: 100px;
+    background-color: aqua;
+   } 
+
+  
